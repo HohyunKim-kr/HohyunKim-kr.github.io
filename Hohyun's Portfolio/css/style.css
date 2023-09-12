@@ -93,7 +93,7 @@ button:focus {
 
 .header--dark {
   background-color: var(--color-primary);
-  box-shadow: 0 3px 10px rgba(43, 42, 42, 0.2);
+  box-shadow: 0 3px 10px rgba(234, 9, 9, 0.2);
 }
 
 .header__logo {
@@ -437,6 +437,7 @@ button:focus {
   border-radius: 100%;
   text-align: center;
   box-shadow: 5px 5px 0px 0px var(--color-accent);
+  transition: opacity 300ms ease-in;
 }
 
 /* Footer */
