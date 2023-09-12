@@ -1,2 +1,1 @@
-# BlockchainValley_04th_KHH
-blockchain valley development
+# 나만의 웹사이트!
